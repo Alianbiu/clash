@@ -2,4 +2,6 @@
 # AUTHOR: aliansea
 # REPO: 
 # UPDATED: 2022-06-18 16:52:16
-HOST-SUFFIX,v2ray.aliansea.cf
+DOMAIN-KEYWORD,aliansea
+DOMAIN-SUFFIX,v2ray.aliansea.cf
+
